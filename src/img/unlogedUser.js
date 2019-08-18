@@ -1,0 +1,1 @@
+export default "http://simpleicon.com/wp-content/uploads/user1.png";
